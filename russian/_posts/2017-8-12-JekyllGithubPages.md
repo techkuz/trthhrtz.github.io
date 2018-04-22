@@ -19,11 +19,7 @@ title: '&#x41F;&#x43E;&#x434;&#x434;&#x435;&#x440;&#x436;&#x43A;&#x430; &#x440;&
 		Пример encoding:
 	</b>
 </p>
+<img src="https://trthhrtz.github.io/images/posts/encoder_pic.png" style="max-height: 300px;" />
 
-<!--![_config.yml]({{ site.baseurl }}/images/encoder_pic.png)-->
 Затем результат из Encoded оборачиваем кавычками '' и закидываем в title.
-
-<p>
-	P.s. Первый пост! Надо будет в скором времени подтянуть теги, которые тут по дефолту не поддерживаются.
-</p>
 

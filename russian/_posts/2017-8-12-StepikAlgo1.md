@@ -33,5 +33,4 @@ title: '&#x41E;&#x43D;&#x43B;&#x430;&#x439;&#x43D; &#x43A;&#x443;&#x440;&#x441;:
 </p>
 P.p.s. Сертификаты выглядят вот так
 
-
-![_config.yml](https://github.com/trthhrtz/PythonStepic/raw/master/PythonBasics/Algorithms1/certificate.png)
+<img src="https://raw.githubusercontent.com/trthhrtz/PythonStepic/master/PythonBasics/Algorithms1/certificate.png" style="max-height: 300px;" />

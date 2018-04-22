@@ -23,7 +23,9 @@ title: XML parsing error(invalid token) caused by PDF
 
 	
 </p>
-![_config.yml]({{ site.baseurl }}/images/xmlPDF.jpg)
+<img src="https://trthhrtz.github.io/images/posts/xmlPDF.jpg" style="max-height: 300px;" />
+
+
 <p>
 	The only thing that succeed a bit was opening PDF with notepad. It showed XML-formatted code, however most of the code was encoded (on gist small part of encoded code is seen in the end, but there is much more) 
 
